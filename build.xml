@@ -1,0 +1,5 @@
+<project name="ivos" basedir="." default="main">
+<target name="main">
+       <echo message="executing ANT target"/>
+</target>
+</project>
